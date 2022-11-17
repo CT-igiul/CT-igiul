@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CT-igiul or, maybe better, Luigi from Catania (CT) Italy.
 - 👀 I’m interested in everything that creates interest.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Pandemy issues.
+- 🌱 I’m currently studing the Pandemy Evolution. 
+- 💞️ I’m looking to collaborate with people who have similar interests.
 - 📫 How to reach me? Vsit My site https://www.luigitomaselli.com/ and ready my analyses e my posts.
 
 <!---
